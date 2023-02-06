@@ -87,4 +87,4 @@ UserType.prototype = Array.prototype;
 
 let admins = new UserType(["Mike", "Bob", "Nikola"]);
 
-console.log(admins.join(", ")); 
+console.log(admins.join(", "));
